@@ -1,0 +1,39 @@
+#section-01
+h1 {
+  font-family: milk-script,sans-serif;
+font-weight: 550;
+font-style: normal;
+font-size: 14em;
+text-align: right;
+display: wrap
+}
+
+h2{
+  font-size: 7em;
+  padding-left: 100px;
+color: rgb(255, 255, 255);
+text-align: left;
+font-style: normal;
+display: wrap
+}
+
+
+  .shadowbox{
+    font-family: scrivano, serif;
+    font-weight:200;
+    font-style: normal;
+    color: black;
+    font-size: 1.8em;
+
+  }
+
+.textbas{
+  font-size: 2em;
+}
+
+#section-03{
+  font-family: looking-flowers-caps, sans-serif;
+font-style: normal;
+font-size: 3em;
+text-align: right;
+color: rgb(255, 255, 255);
